@@ -1,3 +1,6 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+app_uploader:
+    path: /uploader
+    controller: App\Controller\UploaderController::index
