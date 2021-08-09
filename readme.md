@@ -19,3 +19,8 @@
 ```
 
 
+## Step 
+```sh
+- download file from https://s3-ap-southeast-2.amazonaws.com/catch-code-challenge/challenge-1-in.jsonl
+- upload file here http://localhost:8000/uploader
+```
